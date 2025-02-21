@@ -1,4 +1,4 @@
-# High-Performance Order Matching Engine
+# TradeMatch Engine
 
 ## Overview
 This project implements a **high-performance Order Matching Engine (OME)** designed for **low-latency** execution of limit and market orders. It efficiently handles **high-frequency trading (HFT) scenarios** using advanced data structures and multithreading techniques.
